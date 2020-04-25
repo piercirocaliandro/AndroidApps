@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CocktailPassion</string>
+    <string name="search_button">Search</string>
+    <string name="search_by_ing">Search cocktail by ingredient</string>
+    <string name="search_by_name">Search cocktail by name</string>
+    <string name="title_label">Cocktail Passion</string>
+    <string name="find_name_label">Find your favourite cocktail</string>
+    <string name="find_ingr_label">Find cocktail with this ingredient</string>
+</resources>
